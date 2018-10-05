@@ -12,7 +12,13 @@
 .center{
     text-align: center;
 }
-object {
+.heatmap {
      width:100%;
      height: 700px;
+}
+.note {
+    background-color: $lighter-gray;
+    border-left: 6px solid $light-gray;
+    font-size: 0.3rem;
+    padding-left:1rem
 }

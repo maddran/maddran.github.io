@@ -19,7 +19,6 @@ Welcome to my little slice of the world wide web.
 
 A bit about me:
 
-+ I was born in beautiful Trivandrum, Kerala, India.
 + I currently live in beautiful Calgary, Alberta, Canada.
 + I'm an avid fan of the Calgary Flames.
 + I'm not a fan of bananas.

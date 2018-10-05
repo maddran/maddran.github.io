@@ -26,30 +26,31 @@
             width: 100%;
 
             span {
-                display: none;
+                display: block;
                 position: absolute;
                 top: 0;
                 left: 0;
                 bottom: 0;
                 right: 0;
-                background: rgba(0,0,0,0.4);
+                background: rgba(0,0,0,0.7);
                 color: $grey-color-light;
                 padding: 40px;
                 text-align: center;
 
                 h1 {
-                    font-size: 1.5rem;
+                    font-size: 1.2rem;
                     margin: 0;
                 }
 
                 p {
+                    font-size: .8rem;
                     color: $grey-color-light;
                 }
             }
 
             &:hover {
                 span {
-                    display: block;
+                    background: rgba(0,0,0,0.2);
                 }
             }
         }

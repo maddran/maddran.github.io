@@ -42,7 +42,7 @@ $red-1:             #f95020 !default;
 $orange:            #ff471a !default;
 $orange-1:          #ffcc22 !default;
 $blue:              #2698BA !default;
-$blue-1:            #0076df !default;
+$blue-1:            #aadcee !default;
 $dark-blue:         #00369f !default;
 $green:             #00ab37 !default;
 $green-1:           #11D68B !default;
@@ -143,9 +143,9 @@ $hljs-chunk: $light-gray;
 $nav-height: 56px;
 
 // Footer
-$footer-border-top: thin solid $grey-color-dark;
+$footer-border-top: none $grey-color-dark;
 $footer-padding: $space-1;
-$footer-color: $light-gray;
+$footer-color: $grey-color-dark;
 $footer-bg-color: $grey-color-light;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;
