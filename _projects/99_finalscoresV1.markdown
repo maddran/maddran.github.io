@@ -1,11 +1,13 @@
 ---
 layout: page
 title: NHL Final Scores V1
-description: Visualizing the final score of NHL games
+description: Visualizing the final score of NHL regular season games
 img: /assets/img/fsV1.JPG
 ---
 <div class="note">
-  <p><strong>Note 1: </strong> if you're on mobile, go landscape to view the whole plot!<br/><strong>Note 2: </strong> hover (or click) on any data point to view details</p>
+  <p><strong>Notes:</strong> <br/> 
+	- If you're on mobile, go landscape to view the whole plot!<br/> 
+	- Hover (or click) on any data point to view details</p>
 </div>
 <object class="heatmap" data="../html/scores-heatmap.html"></object>
 ### Background
@@ -13,7 +15,7 @@ It was the summer of 2018, I had just learned how to efficiently wrangle a vast 
 
 I set out to answer the question: **What are the most common final scores in NHL history?** 
 
-However, that wouldn't make for a very interesting visualization. After much experimentation, I eventually chose to plot the distribution of final scores, split by home vs. away in a heat map.
+Well, the the answer is 3-2 for the home team and 3-2 for the away team; however, that wouldn't make for a very interesting visualization. So, after much experimentation, I chose to plot the distribution of final scores, split by home  in a heat map.
 
 
 

@@ -14,11 +14,18 @@
 }
 .heatmap {
      width:100%;
-     height: 700px;
+     height: 620px;
+     margin: 0;
 }
 .note {
     background-color: $lighter-gray;
     border-left: 6px solid $light-gray;
     font-size: 0.3rem;
-    padding-left:1rem
+    padding-left:1rem;
+    text-indent:-0.8rem;
+}
+.resume {
+     width: 100%;
+     object-fit: none
+     margin: 0;
 }

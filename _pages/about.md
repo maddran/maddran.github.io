@@ -25,7 +25,7 @@ A bit about me:
 + I love a good heist movie.
 + I also love a bad heist movie.
 
-I staked a claim to this parcel of webspace and my wonderful [Montenegrin URL](https://en.wikipedia.org/wiki/.me) all the way back in September 2018 as a means of hosting some projects. To that end, you can find a collection of my [projects here](projects/) and my professional [resume here](resume/).
+I staked a claim to this parcel of webspace and my [Montenegrin URL](https://en.wikipedia.org/wiki/.me) in September 2018 as a means of hosting and documenting some projects. To that end, you can find a collection of my [projects here](projects/) and my professional [resume here](resume/).
 
 
 
