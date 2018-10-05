@@ -2,7 +2,7 @@
 layout: page
 title: NHL Final Scores V1
 description: Visualizing the final score of NHL games
-img: /assets/img/fsV1.jpg
+img: /assets/img/fsV1.JPG
 ---
 <div class="note">
   <p><strong>Note 1: </strong> if you're on mobile, go landscape to view the whole plot!<br/><strong>Note 2: </strong> hover (or click) on any data point to view details</p>
