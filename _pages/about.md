@@ -14,7 +14,6 @@ profile:
 news: false
 social: true
 ---
-
 Welcome to my little slice of the world wide web. 
 
 A bit about me:

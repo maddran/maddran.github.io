@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: Example
+description: A list of projects I'm working on
 img: /assets/img/12.jpg
 published: false
 ---
