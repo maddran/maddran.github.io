@@ -16,6 +16,15 @@ It was the summer of 2018, I had just learned how to efficiently wrangle a vast 
 I set out to answer the question: **What are the most common final scores in NHL history?** 
 
 Well, the the answer is 3-2 for the home team and 3-2 for the away team; however, that wouldn't make for a very interesting visualization. So, after much experimentation, I chose to plot the distribution of final scores, split by home  in a heat map.
+### Tools and Platforms
+* Data collection and analysis - Python 3.6 and Jupyter notebooks
+* Visualization - [Plotly for Python](https://plot.ly/python/)
 
+### Future iterations
+The learning curve has been rather steep for this 
+* More interactivity!
+	* Add ability to filter by team / final score
+* More data:
+	* Add goal differentials
 
 
