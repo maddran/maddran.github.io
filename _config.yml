@@ -1,18 +1,17 @@
 title: Madhav Narendran
-description: >-
-  Welcome to my corner of the internet.
+name: Madhav Narendran
+tagline: Welcome to my corner of the internet.
+description: Personal website of Madhav Narendran.
 url: "https://mdhv.me"
 baseurl: ""
-github_username: maddran
+author: Madhav Narendran
 
-markdown: kramdown
-remote_theme: patdryburgh/hitchens
+permalink: /:year/:month/:day/:title/
+
+footer-links:
+  github: maddran
 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-
-paginate: 10
-paginate_path: "/page/:num/"
-show_excerpts: true
-hide_credits: true
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
