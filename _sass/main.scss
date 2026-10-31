@@ -2,6 +2,13 @@ body {
   font-family: "Domine", Georgia, "Times New Roman", serif;
 }
 
+.navbar-brand {
+  font-family: "Archivo Black", "Arial Black", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+}
+
 table {
   @extend .table;
   @extend .table-striped;
