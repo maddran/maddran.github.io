@@ -1,0 +1,18 @@
+title: Madhav Narendran
+description: >-
+  Welcome to my corner of the internet.
+url: "https://mdhv.me"
+baseurl: ""
+github_username: maddran
+
+markdown: kramdown
+remote_theme: patdryburgh/hitchens
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
+show_excerpts: true
+hide_credits: true
