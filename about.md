@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: About
-permalink: /about/
 ---
 
-Hi, I'm Madhav. Write a few sentences about yourself here.
+Hi, I'm Madhav. Currently in Toronto, working in Data + AI.
 
-You can find me on [GitHub](https://github.com/maddran).
+You can find me on [GitHub](https://github.com/maddran) and [LinkedIn](https://www.linkedin.com/in/madhavnaren/).
